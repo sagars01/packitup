@@ -63,3 +63,8 @@ registry=https://npm.pkg.github.com/your-organization
 
 4. Rendered like this in your main project
    ![Output](https://i.ibb.co/3TZZ7H4/Screenshot-2021-03-23-at-8-45-53-AM.png)
+
+## Important Links
+
+1. https://docs.github.com/en/actions/guides/publishing-nodejs-packages
+
